@@ -4,11 +4,11 @@ Title: CHARACTER NAME Statblock
 
 # CHARACTER NAME
 
-||||||||
-|-|-|-|-|-|-|-|
-|**name:** | CHARACTER NAME | **class levels:** | CLASS LEVEL | **xp:** | XP |
-|**alignment:** | ALIGNMENT | **homeland:** | HOMELAND | **deity:** | DEITY|
-|**gender:** | GENDER | **size:** | SIZE | **race:** | RACE |
+|||||||
+|-|-|-|-|-|-|
+|**name:** | CHARACTER NAME | **class levels:** | CLASS LEVEL | **xp:** | XP
+|**alignment:** | ALIGNMENT | **homeland:** | HOMELAND | **deity:** | DEITY
+|**gender:** | GENDER | **size:** | SIZE | **race:** | RACE
 
 SHORT DESCRIPTION
 
@@ -29,14 +29,14 @@ SHORT DESCRIPTION
 
 ## Statistics
 
-|||||||
-|-|-|-|-|-|-|
-|**STR**|BSTR|STRB|**Base Attack**|BAB|
-|**DEX**|BDEX|DEXB|**Combat MB** |BCMB|
-|**CON**|BCON|CONB|**Combat MD** |BCMD|
-|**INT**|BINT|INTB|||
-|**WIS**|BWIS|WISB|||
-|**CHA**|BCHA|CHAB|||
+||||||
+|-|-|-|-|-|
+|**STR**|BSTR|STRB|**Base Attack**|BAB
+|**DEX**|BDEX|DEXB|**Combat MB** |BCMB
+|**CON**|BCON|CONB|**Combat MD** |BCMD
+|**INT**|BINT|INTB||
+|**WIS**|BWIS|WISB||
+|**CHA**|BCHA|CHAB||
 
 **Feats:** FEATLIST
 
